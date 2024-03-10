@@ -1,0 +1,7 @@
+C:\Users\gusta\source\repos\pooJogo\pooJogo\bin\Debug\pooJogo.exe.config
+C:\Users\gusta\source\repos\pooJogo\pooJogo\bin\Debug\pooJogo.exe
+C:\Users\gusta\source\repos\pooJogo\pooJogo\bin\Debug\pooJogo.pdb
+C:\Users\gusta\source\repos\pooJogo\pooJogo\obj\Debug\pooJogo.csproj.AssemblyReference.cache
+C:\Users\gusta\source\repos\pooJogo\pooJogo\obj\Debug\pooJogo.csproj.CoreCompileInputs.cache
+C:\Users\gusta\source\repos\pooJogo\pooJogo\obj\Debug\pooJogo.exe
+C:\Users\gusta\source\repos\pooJogo\pooJogo\obj\Debug\pooJogo.pdb
